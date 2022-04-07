@@ -1,5 +1,5 @@
 # erc20token-deposit-intrest
-This repo contain smart contract for erc20 token deposite interest.
+This repo contain smart contract for erc20 token yielding.
 
 => ./contract -> contract files
 
