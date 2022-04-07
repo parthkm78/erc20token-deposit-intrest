@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="567pt" height="778pt" viewBox="0.00 0.00 567.41 778.00">
+<g id="graph0" class="graph" transform="translate(4,774) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-774 563.41,-774 563.41,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterInvestmentBase">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 539.41,-8 539.41,-8 545.41,-8 551.41,-14 551.41,-20 551.41,-20 551.41,-613 551.41,-613 551.41,-619 545.41,-625 539.41,-625 539.41,-625 20,-625 20,-625 14,-625 8,-619 8,-613 8,-613 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="279.71" y="-608.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">InvestmentBase</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="74.71,-633 74.71,-762 464.42,-762 464.42,-633 74.71,-633" style=""/>
+<text text-anchor="middle" x="269.56" y="-745.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- InvestmentBase.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="InvestmentBase.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-574" rx="67.54" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-569.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- InvestmentBase.addTermInterestRate -->
+<g id="node2" class="node" pointer-events="visible" data-name="InvestmentBase.addTermInterestRate">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-520" rx="92.59" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-515.8" font-family="Times,serif" font-size="14.00" style="">addTermInterestRate</text>
+</g>
+<!-- InvestmentBase.getTermInterestRateDetail -->
+<g id="node3" class="node" pointer-events="visible" data-name="InvestmentBase.getTermInterestRateDetail">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="429.42" cy="-34" rx="113.99" ry="18" style=""/>
+<text text-anchor="middle" x="429.42" y="-29.8" font-family="Times,serif" font-size="14.00" style="">getTermInterestRateDetail</text>
+</g>
+<!-- InvestmentBase.isTermInterestRateExists -->
+<g id="node4" class="node" pointer-events="visible" data-name="InvestmentBase.isTermInterestRateExists">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-466" rx="108.79" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-461.8" font-family="Times,serif" font-size="14.00" style="">isTermInterestRateExists</text>
+</g>
+<!-- InvestmentBase.getTermDuration -->
+<g id="node5" class="node" pointer-events="visible" data-name="InvestmentBase.getTermDuration">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-412" rx="78.15" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-407.8" font-family="Times,serif" font-size="14.00" style="">getTermDuration</text>
+</g>
+<!-- InvestmentBase.getAllTermDetail -->
+<g id="node6" class="node" pointer-events="visible" data-name="InvestmentBase.getAllTermDetail">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-358" rx="79.87" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-353.8" font-family="Times,serif" font-size="14.00" style="">getAllTermDetail</text>
+</g>
+<!-- InvestmentBase.whitelistToken -->
+<g id="node7" class="node" pointer-events="visible" data-name="InvestmentBase.whitelistToken">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="147.71" cy="-304" rx="68.94" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-299.8" font-family="Times,serif" font-size="14.00" style="">whitelistToken</text>
+</g>
+<!-- InvestmentBase.getWhitelistedTokenAddresses -->
+<g id="node8" class="node" pointer-events="visible" data-name="InvestmentBase.getWhitelistedTokenAddresses">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-250" rx="131.92" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-245.8" font-family="Times,serif" font-size="14.00" style="">getWhitelistedTokenAddresses</text>
+</g>
+<!-- InvestmentBase.setTermDuration -->
+<g id="node9" class="node" pointer-events="visible" data-name="InvestmentBase.setTermDuration">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-196" rx="77" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-191.8" font-family="Times,serif" font-size="14.00" style="">setTermDuration</text>
+</g>
+<!-- InvestmentBase.setCollateralTokenPercentage -->
+<g id="node10" class="node" pointer-events="visible" data-name="InvestmentBase.setCollateralTokenPercentage">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-142" rx="126.74" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-137.8" font-family="Times,serif" font-size="14.00" style="">setCollateralTokenPercentage</text>
+</g>
+<!-- InvestmentBase.setInterestRateDenominator -->
+<g id="node11" class="node" pointer-events="visible" data-name="InvestmentBase.setInterestRateDenominator">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-88" rx="119.23" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-83.8" font-family="Times,serif" font-size="14.00" style="">setInterestRateDenominator</text>
+</g>
+<!-- InvestmentBase.calculateInterest -->
+<g id="node12" class="node" pointer-events="visible" data-name="InvestmentBase.calculateInterest">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="147.71" cy="-34" rx="74.11" ry="18" style=""/>
+<text text-anchor="middle" x="147.71" y="-29.8" font-family="Times,serif" font-size="14.00" style="">calculateInterest</text>
+</g>
+<!-- InvestmentBase.calculateInterest&#45;&gt;InvestmentBase.getTermInterestRateDetail -->
+<g id="edge1" class="edge" data-name="InvestmentBase.calculateInterest-&gt;InvestmentBase.getTermInterestRateDetail">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M222.2,-34C247.57,-34 276.74,-34 304.99,-34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="305.35,-37.5 315.35,-34 305.35,-30.5 305.35,-37.5" style=""/>
+</g>
+<!-- key -->
+<g id="node13" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="212.71,-729 82.71,-729 82.71,-641 212.71,-641 212.71,-729" style=""/>
+<text text-anchor="start" x="132.35" y="-710.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="128.45" y="-690.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="105.92" y="-670.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="92.31" y="-650.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node14" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="456.42,-729 402.42,-729 402.42,-641 456.42,-641 456.42,-729" style=""/>
+<text text-anchor="start" x="417.17" y="-710.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="417.17" y="-690.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="415.42,-665 415.42,-685 443.42,-685 443.42,-665 415.42,-665" style=""/>
+<text text-anchor="start" x="417.17" y="-670.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="417.42,-647 417.42,-663 441.42,-663 441.42,-647 417.42,-647" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge2" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.71,-715C295.03,-715 319.84,-715 404.37,-715" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.42,-718.5 414.42,-715 404.42,-711.5 404.42,-718.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge3" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M205.71,-695C295.03,-695 319.84,-695 404.37,-695" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="404.42,-698.5 414.42,-695 404.42,-691.5 404.42,-698.5" style=""/>
+</g>
+</g>
+</svg>

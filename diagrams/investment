@@ -1,0 +1,240 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="491pt" height="670pt" viewBox="0.00 0.00 491.28 670.00">
+<g id="graph0" class="graph" transform="translate(4,666) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-666 487.28,-666 487.28,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterinvestment">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 463.28,-8 463.28,-8 469.28,-8 475.28,-14 475.28,-20 475.28,-20 475.28,-505 475.28,-505 475.28,-511 469.28,-517 463.28,-517 463.28,-517 20,-517 20,-517 14,-517 8,-511 8,-505 8,-505 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="241.64" y="-500.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">investment</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="18.93,-525 18.93,-654 370.57,-654 370.57,-525 18.93,-525" style=""/>
+<text text-anchor="middle" x="194.75" y="-637.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- investment.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="investment.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="91.93" cy="-439" rx="67.54" ry="18" style=""/>
+<text text-anchor="middle" x="91.93" y="-434.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- investment.setTermDuration -->
+<g id="node5" class="node" pointer-events="visible" data-name="investment.setTermDuration">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-466" rx="77" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-461.8" font-family="Times,serif" font-size="14.00" style="">setTermDuration</text>
+</g>
+<!-- investment.&lt;Constructor&gt;&#45;&gt;investment.setTermDuration -->
+<g id="edge1" class="edge" data-name="investment.&lt;Constructor&gt;-&gt;investment.setTermDuration">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.53,-445.88C185.33,-449.32 222.94,-453.53 255.81,-457.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="255.51,-460.69 265.84,-458.32 256.29,-453.73 255.51,-460.69" style=""/>
+</g>
+<!-- investment.setCollateralTokenPercentage -->
+<g id="node6" class="node" pointer-events="visible" data-name="investment.setCollateralTokenPercentage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-412" rx="126.74" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-407.8" font-family="Times,serif" font-size="14.00" style="">setCollateralTokenPercentage</text>
+</g>
+<!-- investment.&lt;Constructor&gt;&#45;&gt;investment.setCollateralTokenPercentage -->
+<g id="edge2" class="edge" data-name="investment.&lt;Constructor&gt;-&gt;investment.setCollateralTokenPercentage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.53,-432.12C176.04,-429.71 200.87,-426.94 225.09,-424.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="225.51,-427.71 235.06,-423.12 224.73,-420.75 225.51,-427.71" style=""/>
+</g>
+<!-- investment.depositTokens -->
+<g id="node2" class="node" pointer-events="visible" data-name="investment.depositTokens">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="91.93" cy="-196" rx="67.22" ry="18" style=""/>
+<text text-anchor="middle" x="91.93" y="-191.8" font-family="Times,serif" font-size="14.00" style="">depositTokens</text>
+</g>
+<!-- investment.isTermInterestRateExists -->
+<g id="node7" class="node" pointer-events="visible" data-name="investment.isTermInterestRateExists">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-304" rx="108.79" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-299.8" font-family="Times,serif" font-size="14.00" style="">isTermInterestRateExists</text>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.isTermInterestRateExists -->
+<g id="edge3" class="edge" data-name="investment.depositTokens-&gt;investment.isTermInterestRateExists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M111.38,-213.38C132.21,-232.02 167.89,-261.06 203.86,-277 215.77,-282.27 228.74,-286.53 241.74,-289.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="241.12,-293.42 251.67,-292.44 242.81,-286.63 241.12,-293.42" style=""/>
+</g>
+<!-- investment.getWhitelistedTokenAddresses -->
+<g id="node8" class="node" pointer-events="visible" data-name="investment.getWhitelistedTokenAddresses">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-196" rx="131.92" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-191.8" font-family="Times,serif" font-size="14.00" style="">getWhitelistedTokenAddresses</text>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.getWhitelistedTokenAddresses -->
+<g id="edge4" class="edge" data-name="investment.depositTokens-&gt;investment.getWhitelistedTokenAddresses">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.48,-190C170.18,-189.59 186.4,-189.35 202.9,-189.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="203.2,-192.77 213.19,-189.25 203.18,-185.77 203.2,-192.77" style=""/>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.getWhitelistedTokenAddresses -->
+<g id="edge5" class="edge" data-name="investment.depositTokens-&gt;investment.getWhitelistedTokenAddresses">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.48,-202C170.18,-202.41 186.4,-202.65 202.9,-202.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="203.18,-206.23 213.19,-202.75 203.2,-199.23 203.18,-206.23" style=""/>
+</g>
+<!-- investment.ERC20 -->
+<g id="node9" class="node" pointer-events="visible" data-name="investment.ERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-142" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-137.8" font-family="Times,serif" font-size="14.00" style="">ERC20</text>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.ERC20 -->
+<g id="edge6" class="edge" data-name="investment.depositTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M103,-177.99C122.44,-161.48 166.54,-150.39 203.86,-142 237.64,-134.4 276.52,-126.48 303.03,-126.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="303.08,-130.07 313.24,-127.07 303.43,-123.08 303.08,-130.07" style=""/>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.ERC20 -->
+<g id="edge7" class="edge" data-name="investment.depositTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M125.38,-180.16C147.46,-173.27 177.37,-165.96 203.86,-160 230.87,-153.93 261.12,-147.64 285.72,-143.58" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="286.56,-146.99 295.89,-141.98 285.47,-140.08 286.56,-146.99" style=""/>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.ERC20 -->
+<g id="edge9" class="edge" data-name="investment.depositTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.74,-189.25C170.72,-185.67 187.91,-181.59 203.86,-178 235.1,-170.98 270.69,-163.67 296.84,-157.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="297.95,-160.34 306.72,-154.4 296.16,-153.58 297.95,-160.34" style=""/>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.ERC20 -->
+<g id="edge10" class="edge" data-name="investment.depositTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M136.05,-209.62C156.55,-207.06 181.43,-201.05 203.86,-196 242.95,-187.21 288.87,-177.98 314.56,-164.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="316.62,-167.43 323.36,-159.25 312.99,-161.44 316.62,-167.43" style=""/>
+</g>
+<!-- investment.getTermDuration -->
+<g id="node10" class="node" pointer-events="visible" data-name="investment.getTermDuration">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-358" rx="78.15" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-353.8" font-family="Times,serif" font-size="14.00" style="">getTermDuration</text>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.getTermDuration -->
+<g id="edge8" class="edge" data-name="investment.depositTokens-&gt;investment.getTermDuration">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M102.45,-214.22C118.89,-243.78 155.57,-301.83 203.86,-331 218.37,-339.76 235.26,-345.72 251.98,-349.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="251.27,-353.19 261.79,-351.93 252.78,-346.36 251.27,-353.19" style=""/>
+</g>
+<!-- investment.newDeposite -->
+<g id="node11" class="node" pointer-events="visible" data-name="investment.newDeposite">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-250" rx="61.4" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-245.8" font-family="Times,serif" font-size="14.00" style="">newDeposite</text>
+</g>
+<!-- investment.depositTokens&#45;&gt;investment.newDeposite -->
+<g id="edge11" class="edge" data-name="investment.depositTokens-&gt;investment.newDeposite">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.72,-208.27C161.04,-213.02 183.46,-218.41 203.86,-223 226.8,-228.16 252.09,-233.47 274.26,-238" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="273.71,-241.46 284.21,-240.03 275.11,-234.6 273.71,-241.46" style=""/>
+</g>
+<!-- investment.withdrawTokens -->
+<g id="node3" class="node" pointer-events="visible" data-name="investment.withdrawTokens">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="91.93" cy="-142" rx="75.86" ry="18" style=""/>
+<text text-anchor="middle" x="91.93" y="-137.8" font-family="Times,serif" font-size="14.00" style="">withdrawTokens</text>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.getWhitelistedTokenAddresses -->
+<g id="edge12" class="edge" data-name="investment.withdrawTokens-&gt;investment.getWhitelistedTokenAddresses">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.31,-150.01C174.66,-153.27 189.75,-156.83 203.86,-160 228.69,-165.58 256.27,-171.34 279.67,-176.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="278.88,-180.23 289.42,-179.14 280.51,-173.42 278.88,-180.23" style=""/>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.getWhitelistedTokenAddresses -->
+<g id="edge13" class="edge" data-name="investment.withdrawTokens-&gt;investment.getWhitelistedTokenAddresses">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M126.36,-158.14C148.34,-164.94 177.76,-172.13 203.86,-178 210.4,-179.47 217.12,-180.95 223.9,-182.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="223.37,-185.87 233.88,-184.53 224.82,-179.03 223.37,-185.87" style=""/>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.ERC20 -->
+<g id="edge15" class="edge" data-name="investment.withdrawTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M131.76,-126.66C177.8,-119.97 253.92,-120.12 298.65,-127.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="298.05,-130.54 308.51,-128.85 299.27,-123.65 298.05,-130.54" style=""/>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.ERC20 -->
+<g id="edge16" class="edge" data-name="investment.withdrawTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.47,-135.8C203.41,-134.88 252.27,-135.12 287.54,-136.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.42,-140.02 297.56,-136.97 287.73,-133.03 287.42,-140.02" style=""/>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.ERC20 -->
+<g id="edge17" class="edge" data-name="investment.withdrawTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M163.47,-148.2C203.41,-149.12 252.27,-148.88 287.54,-147.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.73,-150.97 297.56,-147.03 287.42,-143.98 287.73,-150.97" style=""/>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.ERC20 -->
+<g id="edge18" class="edge" data-name="investment.withdrawTokens-&gt;investment.ERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M131.76,-157.34C177.8,-164.03 253.92,-163.88 298.65,-156.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="299.27,-160.35 308.51,-155.15 298.05,-153.46 299.27,-160.35" style=""/>
+</g>
+<!-- investment.calculateInterest -->
+<g id="node12" class="node" pointer-events="visible" data-name="investment.calculateInterest">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-88" rx="74.11" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-83.8" font-family="Times,serif" font-size="14.00" style="">calculateInterest</text>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.calculateInterest -->
+<g id="edge14" class="edge" data-name="investment.withdrawTokens-&gt;investment.calculateInterest">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M144.76,-128.99C163.37,-124.42 184.53,-119.35 203.86,-115 224.56,-110.35 247.16,-105.57 267.66,-101.35" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="268.45,-104.76 277.54,-99.33 267.04,-97.91 268.45,-104.76" style=""/>
+</g>
+<!-- investment.newWithdraw -->
+<g id="node13" class="node" pointer-events="visible" data-name="investment.newWithdraw">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="335.57" cy="-34" rx="65.97" ry="18" style=""/>
+<text text-anchor="middle" x="335.57" y="-29.8" font-family="Times,serif" font-size="14.00" style="">newWithdraw</text>
+</g>
+<!-- investment.withdrawTokens&#45;&gt;investment.newWithdraw -->
+<g id="edge19" class="edge" data-name="investment.withdrawTokens-&gt;investment.newWithdraw">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M116.98,-124.85C131.72,-114.29 150.94,-100.44 167.86,-88 183.98,-76.15 185.63,-69.22 203.86,-61 222.66,-52.53 244.18,-46.68 264.25,-42.66" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="265.11,-46.06 274.29,-40.78 263.81,-39.18 265.11,-46.06" style=""/>
+</g>
+<!-- investment.investmentInfo -->
+<g id="node4" class="node" pointer-events="visible" data-name="investment.investmentInfo">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="91.93" cy="-61" rx="69.5" ry="18" style=""/>
+<text text-anchor="middle" x="91.93" y="-56.8" font-family="Times,serif" font-size="14.00" style="">investmentInfo</text>
+</g>
+<!-- key -->
+<g id="node14" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="156.93,-621 26.93,-621 26.93,-533 156.93,-533 156.93,-621" style=""/>
+<text text-anchor="start" x="76.57" y="-602.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="72.68" y="-582.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="50.14" y="-562.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="36.53" y="-542.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node15" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="362.57,-621 308.57,-621 308.57,-533 362.57,-533 362.57,-621" style=""/>
+<text text-anchor="start" x="323.33" y="-602.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="323.33" y="-582.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="321.57,-557 321.57,-577 349.57,-577 349.57,-557 321.57,-557" style=""/>
+<text text-anchor="start" x="323.33" y="-562.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="323.57,-539 323.57,-555 347.57,-555 347.57,-539 323.57,-539" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge20" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M149.93,-607C222.22,-607 242.83,-607 310.27,-607" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="310.57,-610.5 320.57,-607 310.57,-603.5 310.57,-610.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M149.93,-587C222.22,-587 242.83,-587 310.27,-587" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="310.57,-590.5 320.57,-587 310.57,-583.5 310.57,-590.5" style=""/>
+</g>
+</g>
+</svg>
