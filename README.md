@@ -1,6 +1,10 @@
 # erc20token-deposit-intrest
 This repo contain smart contract for erc20 token deposite interest.
 
+=> ./contract -> contract files
+=> ./diagrams -> relastionship graph
+=> ./SourceUnit.md -> hierarchy structure
+
 => There are two types of token.
 1. Investment Token
 2. Collateral Token
