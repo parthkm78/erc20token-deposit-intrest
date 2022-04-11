@@ -15,6 +15,8 @@ This repo contain smart contract for erc20 token yielding.
 
 => **There is no token is hardcoded in smart contract. so you can use any token as '**Investment'** & **'Collateral'** Token.**
 
+=> _**solidity version >=0.8.0, safe math is enabled for all the variables by default**_
+
 =>You have to use '**whitelistToken**' method to whitelist tokens.
 
 ![image](https://user-images.githubusercontent.com/51226907/162268024-fb82a743-88fe-4411-a792-ed6850f75ecd.png)
